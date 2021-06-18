@@ -1,9 +1,6 @@
-#version: 202105250510
+#version: 202106172010
 @direct/1os
-#-----Test
-#阻止苏宁小店下载
-127.0.0.1 at.umeng.com
-#高德左上广告
+#amap
 127.0.0.1 optimus-ads.amap.com
 #香哈升级包
 127.0.0.1 t1.cdn.xiangha.com
@@ -26,6 +23,9 @@
 127.0.0.1 ggx.cmvideo.cn
 127.0.0.1 ggic.cmvideo.cn
 127.0.0.1 sdk.adtiming.com
+127.0.0.1 gz-data.com
+127.0.0.1 gozendata.com
+127.0.0.1 gzads.com
 #yyets
 127.0.0.1 tracker1.zmzfile.com
 127.0.0.1 tracker2.zmzfile.com
@@ -38,9 +38,16 @@
 127.0.0.1 htracker4.zmzfile.com
 127.0.0.1 htracker5.zmzfile.com
 127.0.0.1 file.apicvn.com
-
-#-----Test End
 #ios
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 ether-pack.pangolin-sdk-toutiao.com
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
+127.0.0.1 p1-be-endcard.pglstatp-toutiao.com
+127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
+127.0.0.1 v3-be-pack.pglstatp-toutiao.com
+127.0.0.1 v6-be-pack.pglstatp-toutiao.com
 255.255.255.255	broadcasthost
 ::1             localhost
 #common
@@ -63,7 +70,7 @@
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
-127.0.0.1 lm.licenses.adobe.com
+#127.0.0.1 lm.licenses.adobe.com
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 na2m-pr.licenses.adobe.com
@@ -373,10 +380,12 @@
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 ar.umeng.com
+127.0.0.1 at.umeng.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 umeng.com
 127.0.0.1 www.umeng.com
+127.0.0.1 ulogs.umeng.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 ex.umengcloud.com
 127.0.0.1 msg.umengcloud.com
@@ -1386,16 +1395,23 @@
 127.0.0.1 rcmd.pop.ijinshan.com
 127.0.0.1 rcv.mobad.ijinshan.com
 #miui-xiaomi
+127.0.0.1 ad.mi.com
+127.0.0.1 adv.sec.miui.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.e.mi.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 log.ad.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 ssp.ad.xiaomi.com
+127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.zeus.ad.xiaomi.com
+127.0.0.1 tracking.miui.com
 127.0.0.1 zeus.ad.xiaomi.com
 #miui-download
 127.0.0.1 etl.xlmc.sandai.net
@@ -3115,6 +3131,7 @@
 127.0.0.1 26gg.bnq86.com
 127.0.0.1 272829.cc
 127.0.0.1 3.iscrv.com
+127.0.0.1 3245dsfsd.cdgongfang.cn
 127.0.0.1 35baba.cn
 127.0.0.1 38c99.com
 127.0.0.1 4nemiaje2.aupig.cn
@@ -3150,6 +3167,8 @@
 127.0.0.1 a.yiyuancq.com
 127.0.0.1 a-cn.duoyi.com
 127.0.0.1 a0c.cn
+127.0.0.1 a01.abovede6.com
+127.0.0.1 a1.huiqituan.com
 127.0.0.1 a1.lmaq.cn
 127.0.0.1 a1.openxt.cn
 127.0.0.1 a1.peoplecdn.cn
@@ -3173,9 +3192,13 @@
 127.0.0.1 ad.tatatimes.com
 127.0.0.1 ad.xn--3bs795g.link
 127.0.0.1 ad.wang502.com
+127.0.0.1 adxadserv.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adeaz.com
 127.0.0.1 adeq.hiidc.com.cn
+127.0.0.1 adimg.bbcss.com
+127.0.0.1 adktrack.com
+127.0.0.1 admin.louxia.org
 127.0.0.1 adrunnr.com
 127.0.0.1 ads.api.vungle.com
 127.0.0.1 ads.exosrv.com
@@ -3276,11 +3299,21 @@
 127.0.0.1 buyu8001.com
 127.0.0.1 by.mbai.cn
 127.0.0.1 c.365yigou.cn
+127.0.0.1 c.45io.com
+127.0.0.1 c.51xmgys.com
+127.0.0.1 c.7times.top
 127.0.0.1 c.acgshenshicha.cn
 127.0.0.1 c.bayongzx.cn
 127.0.0.1 c.bccyyc.com
+127.0.0.1 c.cdlkzb.com
+127.0.0.1 c.chaochao132.xyz
+127.0.0.1 c.cqdjhj.cn
 127.0.0.1 c.cyhx98.com
 127.0.0.1 c.cyto-biotherapy.com
+127.0.0.1 c.danangmo.cn
+127.0.0.1 c.daizhangguanjia.com.cn
+127.0.0.1 c.dcghp.top
+127.0.0.1 c.dcgwnhk.cn
 127.0.0.1 c.dengbaozx.cn
 127.0.0.1 c.dg186.cn
 127.0.0.1 c.f1zd.com
@@ -3297,9 +3330,15 @@
 127.0.0.1 c.mobishu.com
 127.0.0.1 c.nkzker.cn
 127.0.0.1 c.ns8d.com
+127.0.0.1 c.okmgy.cn
+127.0.0.1 c.originz.cn
+127.0.0.1 c.oumaite168.com.cn
+127.0.0.1 c.panqis.cn
 127.0.0.1 c.panqishu.com
+127.0.0.1 c.pengmingx.cn
 127.0.0.1 c.piliangzhuce.cn
-127.0.0.1 v.qhruisen.cn
+127.0.0.1 c.ptffw.net
+127.0.0.1 c.qhruisen.cn
 127.0.0.1 c.qhruixin.cn
 127.0.0.1 c.queene.cn
 127.0.0.1 c.rexuebi.com
@@ -3310,6 +3349,10 @@
 127.0.0.1 c.v-meng.org
 127.0.0.1 c.v4dwkcv.com
 127.0.0.1 c.wantxt.cc
+127.0.0.1 c.wechat.jx.cn
+127.0.0.1 c.wofbw.top
+127.0.0.1 c.wxxljy.net
+127.0.0.1 c.xadingli.cn
 127.0.0.1 c.xbjcgs.cn
 127.0.0.1 c.zlongad.com
 127.0.0.1 c.zoepb.cn
@@ -3599,6 +3642,9 @@
 127.0.0.1 gho.ysbjgjwh.com
 127.0.0.1 global.ymtracking.com
 127.0.0.1 gm.uc003.com
+127.0.0.1 gmeng.625323.com
+127.0.0.1 gn.lalaqky.cn
+127.0.0.1 go2021-1955280580.bceapp.com
 127.0.0.1 go.dlads.cn
 127.0.0.1 go.gotourls.bid
 127.0.0.1 go.kukudm.com
@@ -4022,6 +4068,12 @@
 127.0.0.1 m.zhongfujiaoyu.cn
 127.0.0.1 m.zkwsdf.com
 127.0.0.1 m.zowmgxpz.cn
+127.0.0.1 m.zq13n.cn
+127.0.0.1 m.zq4ka.cn
+127.0.0.1 m.zu08e.cn
+127.0.0.1 m.zuopp.com
+127.0.0.1 m.zvfuka.cn
+127.0.0.1 m.zzchuy.cn
 127.0.0.1 m1.asklib.com
 127.0.0.1 m1.jiasudu666.com
 127.0.0.1 m2u.376710.com
@@ -4032,6 +4084,7 @@
 127.0.0.1 mc.hujiang.com
 127.0.0.1 md.tvzhe.com
 127.0.0.1 me.com.x9wj2.cn
+127.0.0.1 media.vivaclix.com
 127.0.0.1 mf01.zybang.com
 127.0.0.1 mf02.zybang.com
 127.0.0.1 mf35.t7wl8.cn
@@ -4124,6 +4177,7 @@
 127.0.0.1 p.qfmzys.com
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.tamenshuo.com
+127.0.0.1 p.unclecarm.cn
 127.0.0.1 p.vtdtfl.cn
 127.0.0.1 p0l.cn
 127.0.0.1 p2.hyz86.com
@@ -4218,6 +4272,11 @@
 127.0.0.1 qlisv.siemens6es7.com
 127.0.0.1 qq.guansenff.cn
 127.0.0.1 qqe.ihear123.com
+127.0.0.1 qqpublic.qpic.cn
+127.0.0.1 qqs.glpen08.com
+127.0.0.1 qrbizr.cn
+127.0.0.1 qrrl.cwj2h.cn
+127.0.0.1 qtpb.12jf3.cn
 127.0.0.1 ququdm.com
 127.0.0.1 qwe.jzpxyd.com
 127.0.0.1 qzxcvb.m.zwdu.com
@@ -4274,6 +4333,7 @@
 127.0.0.1 saitef.cn
 127.0.0.1 sccdn.f2zd.com
 127.0.0.1 scimg.27admin.com
+127.0.0.1 scr.lflable.com
 127.0.0.1 script-bd.baixing.net
 127.0.0.1 sdbdccq.com
 127.0.0.1 sdk.appadhoc.com
@@ -4321,6 +4381,10 @@
 127.0.0.1 storage.29293.com
 127.0.0.1 su.8881919.cc
 127.0.0.1 suoooi.cn
+127.0.0.1 sv.vgimer.cn
+127.0.0.1 svip.shwxtw.com
+127.0.0.1 svip.xsmy2.cn
+127.0.0.1 sw.cailawyer.cn
 127.0.0.1 swappdl.duoyi.com
 127.0.0.1 swe.shylsp.com
 127.0.0.1 sy.code.mytanwan.com
@@ -4358,6 +4422,10 @@
 127.0.0.1 tben.nnchangyi.com
 127.0.0.1 td.xue63.com
 127.0.0.1 te.xclvq.cn
+127.0.0.1 tech.hellobya.cn
+127.0.0.1 tech.qgdvyvd.cn
+127.0.0.1 tect.hellobya.cn
+127.0.0.1 teen.77rog.com
 127.0.0.1 tejia.gaibang.fun
 127.0.0.1 tf.caohua.com
 127.0.0.1 tf.gzleilin.com
@@ -4366,6 +4434,8 @@
 127.0.0.1 tg.qilashou.com
 127.0.0.1 thefatherofsalmon.com
 127.0.0.1 titi.18tzx.com
+127.0.0.1 titi.qifajiang.cn
+127.0.0.1 tj.dushu.ru
 127.0.0.1 tj.jinyuewang.cn
 127.0.0.1 tj.playcvn.com
 127.0.0.1 tj.tongjiwo.com
@@ -4420,9 +4490,17 @@
 127.0.0.1 uzixia.zwdu.com
 127.0.0.1 v.1jnh85.cn
 127.0.0.1 v.510vud.cn
+127.0.0.1 v.6dvip.com
+127.0.0.1 v.7times.top
+127.0.0.1 v.76768hwj.cn
+127.0.0.1 v.8yrn.cn
 127.0.0.1 v.9y88.com
 127.0.0.1 v.acgshenshicha.cn
 127.0.0.1 v.bayongzx.cn
+127.0.0.1 v.bingxueshenjie.cn
+127.0.0.1 v.com.5p67n.cn
+127.0.0.1 v.cqdjhj.cn
+127.0.0.1 v.daizhangguanjia.com.cn
 127.0.0.1 v.dalemax.cn
 127.0.0.1 v.dengbaozx.cn
 127.0.0.1 v.dg186.cn
@@ -4433,15 +4511,29 @@
 127.0.0.1 v.lovame.com.cn
 127.0.0.1 v.nkzker.cn
 127.0.0.1 v.oq68.com
+127.0.0.1 v.originz.cn
+127.0.0.1 v.oumaite168.com.cn
+127.0.0.1 v.pengmingx.cn
+127.0.0.1 v.qhruisen.cn
 127.0.0.1 v.qhruixin.cn
 127.0.0.1 v.sixiuwl.cn
 127.0.0.1 v.szpaopao.com
 127.0.0.1 v.tr31t.cn
+127.0.0.1 v.wangdaguanli.com
+127.0.0.1 v.wxxljy.net
+127.0.0.1 v.xadingli.cn
 127.0.0.1 v.xbjcgs.cn
 127.0.0.1 v.xinshide.cn
 127.0.0.1 v.zoepb.cn
 127.0.0.1 v1.0594529.com
 127.0.0.1 v4g.cn
+127.0.0.1 v7.kawinhome.com
+127.0.0.1 v7.shaoyumuye.com
+127.0.0.1 vadioc.cn
+127.0.0.1 vbaiu.com
+127.0.0.1 vbje.linyankm.cn
+127.0.0.1 vc.vgimer.cn
+127.0.0.1 ve.tsdlp.com
 127.0.0.1 vebadu.com
 127.0.0.1 vgf.zuihuixuan.com
 127.0.0.1 vhd23.cnsanheng.cn
@@ -4454,6 +4546,10 @@
 127.0.0.1 vipchaoshi.cn
 127.0.0.1 vipwx.zhong-zhu.com
 127.0.0.1 viq3.fb360xp.com
+127.0.0.1 vivo.mmxy.tech
+127.0.0.1 vj.tianji520.cn
+127.0.0.1 vj.x-ssp.com
+127.0.0.1 vm.makeding.com
 127.0.0.1 vmjjzk.cn
 127.0.0.1 vmzqwz.cn
 127.0.0.1 vns800600.net
@@ -4538,7 +4634,10 @@
 127.0.0.1 www.afj0.com
 127.0.0.1 www.aliyoo999.com
 127.0.0.1 www.anyangruisi.com
+127.0.0.1 www.aodongjiaosu.com
+127.0.0.1 www.aoyou1.top
 127.0.0.1 www.aoyou2.top
+127.0.0.1 www.aoyou4.top
 127.0.0.1 www.appfh.com
 127.0.0.1 www.applequan.com
 127.0.0.1 www.ashiping.com
@@ -4568,6 +4667,7 @@
 127.0.0.1 www.duobaoqj.com
 127.0.0.1 www.ere3j2e001.com
 127.0.0.1 www.esptj.com
+127.0.0.1 www.ewtyewj.com
 127.0.0.1 www.fastcache.com.cn
 127.0.0.1 www.fatcatstar.com
 127.0.0.1 www.feitianma.com
@@ -4597,6 +4697,8 @@
 127.0.0.1 www.ilkwork.com
 127.0.0.1 www.insuf.cn
 127.0.0.1 www.iqiyi.space
+127.0.0.1 www.isitone.com
+127.0.0.1 www.jacklm3.com
 127.0.0.1 www.jagcn.com
 127.0.0.1 www.jav23.com
 127.0.0.1 www.javascriptobfuscator.com
@@ -4643,6 +4745,7 @@
 127.0.0.1 www.pjbjzf.com
 127.0.0.1 www.poijugh.top
 127.0.0.1 www.poke88.com
+127.0.0.1 www.ppslsa.com
 127.0.0.1 www.predictivadvertising.com
 127.0.0.1 www.prjslxhtx001.top
 127.0.0.1 www.prjslxhtx002.top
@@ -4656,12 +4759,19 @@
 127.0.0.1 www.prjslxhtx010.top
 127.0.0.1 www.qiaopiguniang.com
 127.0.0.1 www.qinchugudao.com
+127.0.0.1 www.qiubang.org
+127.0.0.1 www.qupinhj.com
+127.0.0.1 www.qwupoq.com
+127.0.0.1 www.qzgjprj.com
+127.0.0.1 www.rangzhuai.com
 127.0.0.1 www.rannabio.com
 127.0.0.1 www.sa909.com
 127.0.0.1 www.schborg.com
 127.0.0.1 www.seerpiu002.com
 127.0.0.1 www.shglegle.com
 127.0.0.1 www.shouyoutan.com
+127.0.0.1 www.shuaixu.site
+127.0.0.1 www.slkeq.com
 127.0.0.1 www.smucdn.com
 127.0.0.1 www.somennew.com
 127.0.0.1 www.song001.com
@@ -4760,6 +4870,13 @@
 127.0.0.1 xyoss.g.com.cn
 127.0.0.1 y.5125129.com
 127.0.0.1 y.cgtte.com
+127.0.0.1 y.gwylm.com
+127.0.0.1 y.hk9600.com
+127.0.0.1 y.hzht666.com
+127.0.0.1 y.ilancc.com
+127.0.0.1 ysiqmzfr.eileader.cn
+127.0.0.1 i.nyue6.com
+127.0.0.1 y.shuoshuocm.com
 127.0.0.1 y.unilz588.com
 127.0.0.1 y.zp22.cn
 127.0.0.1 y7jq.cn
@@ -4778,6 +4895,7 @@
 127.0.0.1 yumcs.xiaohuau.xyz
 127.0.0.1 yundingjiayuan.com
 127.0.0.1 yuyue008.cn
+127.0.0.1 yxd9c.hnpljm.xyz
 127.0.0.1 yxrp.lianfuhuang.cn
 127.0.0.1 yxyhtea.com
 127.0.0.1 z.moatads.com
@@ -7111,4 +7229,33 @@
 #m.mypianku.net & 
 127.0.0.1 vip.70qn.com
 127.0.0.1 show.suning.beer
-#www.pianku.la/
+#game
+127.0.0.1 aa.toponad.com
+127.0.0.1 adx-tk.rayjump.com
+127.0.0.1 analytics.dspunion.com
+127.0.0.1 bds.snssdk.com
+127.0.0.1 cdn-adn-https-share.rayjump.com
+127.0.0.1 da.anythinktech.com
+127.0.0.1 gd-stats.jpush.cn
+127.0.0.1 imp-toutiao-data.37.com.cn
+127.0.0.1 impression.appsflyer.com
+127.0.0.1 ios.bugly.qq.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 isub.snssdk.com
+127.0.0.1 ms.applovin.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 newplayable.dspunion.com
+127.0.0.1 prod-a.applovin.com
+127.0.0.1 prod-bid.applovin.com
+127.0.0.1 res1.applovin.com
+127.0.0.1 s2s.adjust.com
+127.0.0.1 s3.pstatp.com
+127.0.0.1 setting.rayjump.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 sg01.rayjump.com
+127.0.0.1 smart.mobvista.com
+127.0.0.1 smr.snssdk.com
+127.0.0.1 tk.anythinktech.com
+127.0.0.1 tkcn.rayjump.com
+127.0.0.1 track.tenjin.com
+127.0.0.1 www.tinytapgame.com
