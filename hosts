@@ -1,4 +1,4 @@
-#version: 202106172037
+#version: 202110181841
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 127.0.0.1 adfurikun.jp
 127.0.0.1 aag.yahooapis.jp
@@ -903,6 +903,7 @@
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 slog.sina.cn
+127.0.0.1 sanme2.lanzoui.com
 127.0.0.1 trends.mobile.sina.cn
 127.0.0.1 u1.img.mobile.sina.cn
 127.0.0.1 wapwbclick.mobile.sina.cn
@@ -6117,10 +6118,17 @@
 127.0.0.1 hxlover.com
 127.0.0.1 etl-xlmc-ssl.xunlei.com
 127.0.0.1 fangniaowang.net
+127.0.0.1 api.aiclk.com
+127.0.0.1 cdn.aiclk.com
+127.0.0.1 logrvc.aiclk.com
+127.0.0.1 oss.cdn.aiclk.com
+127.0.0.1 rcv.aiclk.com
+127.0.0.1 update0.aiclk.com
 127.0.0.1 adv.aiclk.com
 127.0.0.1 game-motivatead.aiclk.com
 127.0.0.1 recv.aiclk.com
 127.0.0.1 tac.aiclk.com
+127.0.0.1 sdk-ab-config-.aiclk.com
 127.0.0.1 tracelog-debug.aiclk.com
 127.0.0.1 upload.aiclk.com
 127.0.0.1 vip.70qn.com
