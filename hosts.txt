@@ -1446,6 +1446,7 @@
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 test.e.ad.xiaomi.com
 0.0.0.0 test.zeus.ad.xiaomi.com
@@ -1641,6 +1642,7 @@
 0.0.0.0 fun.adx.admaster.com.cn
 #molitv.cn
 #OpenSubtitles.org
+0.0.0.0 ads2.opensubtitles.org
 #http://www.tiantiankan123.com/
 #http://www.wasu.cn/
 0.0.0.0 ads.wasu.tv
@@ -5933,6 +5935,7 @@
 0.0.0.0 a2.img.static.youmi.net
 0.0.0.0 a3.img.static.youmi.net
 0.0.0.0 au.youmi.net
+0.0.0.0 notifiter.youmi.net
 0.0.0.0 static.youmi.net
 0.0.0.0 t.youmi.net
 0.0.0.0 youmi.net
@@ -5940,6 +5943,7 @@
 0.0.0.0 ad1.img.static.youmi.net
 0.0.0.0 ad2.img.static.youmi.net
 0.0.0.0 adchn.youmi.net
+0.0.0.0 analytics.youmi.net
 0.0.0.0 app-facade.youmi.net
 0.0.0.0 dev.youmi.net
 0.0.0.0 pop.youmi.net
@@ -6927,6 +6931,7 @@
 0.0.0.0 static.app.m.letv.com
 0.0.0.0 test.ark.letv.com
 #sohu-tv
+0.0.0.0 cdn.danmu.56.com
 0.0.0.0 api.danmu.tv.sohu.com
 0.0.0.0 click.hd.sohu.com.cn
 0.0.0.0 click2.hd.sohu.com
@@ -6985,6 +6990,7 @@
 0.0.0.0 reply.lomark.cn
 0.0.0.0 rm.lomark.cn
 0.0.0.0 p-cn.acxiom-online.com
+0.0.0.0 static8.pmadx.com
 #impact-ad
 0.0.0.0 y.one.impact-ad.com
 #China Unicom

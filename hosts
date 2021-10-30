@@ -1207,6 +1207,7 @@
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 test.e.ad.xiaomi.com
 0.0.0.0 test.zeus.ad.xiaomi.com
@@ -1365,6 +1366,7 @@
 0.0.0.0 rt.funshion.net
 0.0.0.0 stat.funshion.net
 0.0.0.0 fun.adx.admaster.com.cn
+0.0.0.0 ads2.opensubtitles.org
 0.0.0.0 ads.wasu.tv
 0.0.0.0 adsystem.wasu.tv
 0.0.0.0 adwasu.wasu.tv
@@ -5113,6 +5115,7 @@
 0.0.0.0 a2.img.static.youmi.net
 0.0.0.0 a3.img.static.youmi.net
 0.0.0.0 au.youmi.net
+0.0.0.0 notifiter.youmi.net
 0.0.0.0 static.youmi.net
 0.0.0.0 t.youmi.net
 0.0.0.0 youmi.net
@@ -5120,6 +5123,7 @@
 0.0.0.0 ad1.img.static.youmi.net
 0.0.0.0 ad2.img.static.youmi.net
 0.0.0.0 adchn.youmi.net
+0.0.0.0 analytics.youmi.net
 0.0.0.0 app-facade.youmi.net
 0.0.0.0 dev.youmi.net
 0.0.0.0 pop.youmi.net
