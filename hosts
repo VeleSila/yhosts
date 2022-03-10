@@ -1,4 +1,4 @@
-#version: 202111082343
+#version: 2022031015
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 0.0.0.0 adfurikun.jp
 0.0.0.0 aag.yahooapis.jp
@@ -108,6 +108,17 @@
 0.0.0.0 qstore.inner.api.sj.360.cn
 0.0.0.0 shake.360.cn
 0.0.0.0 shake.f.360.cn
+0.0.0.0 sdk.push.mob.com
+0.0.0.0 api.fc.mob.com
+0.0.0.0 api.fd.mob.com
+0.0.0.0 ads.reader.yueyouxs.com
+0.0.0.0 e.fengyx.com
+0.0.0.0 c.oqrwpru.cn
+0.0.0.0 v.oqrwpru.cn
+0.0.0.0 honpu1.dianqiweixiu.net
+0.0.0.0 1.yitooo.net
+0.0.0.0 mps.wenkuzu.com
+0.0.0.0 fpbbdx1.bmcx.com
 0.0.0.0 e.tf.360.cn
 0.0.0.0 guess.tf.360.cn
 0.0.0.0 stat.tf.360.cn
@@ -4994,8 +5005,11 @@
 0.0.0.0 pic.punchbox.org
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 www.qchannel03.cn
+0.0.0.0 a.qchannel03.cn
 0.0.0.0 b.qchannel03.cn
 0.0.0.0 fd.qchannel03.cn
+0.0.0.0 fd2.qchannel03.cn
+0.0.0.0 log.qchannel03.cn
 0.0.0.0 www.qchannel04.cn
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 77kb.qucaigg.com
@@ -5942,6 +5956,12 @@
 0.0.0.0 cdn-adn-https-share.rayjump.com
 0.0.0.0 da.anythinktech.com
 0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 tsis.jpush.cn
+0.0.0.0 ce3e75d5.jpush.cn
+0.0.0.0 config-junion.jpush.cn
+0.0.0.0 s.jpush.cn
+0.0.0.0 config.jpush.cn
+0.0.0.0 gw.innotechx.com
 0.0.0.0 imp-toutiao-data.37.com.cn
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 ios.bugly.qq.com
