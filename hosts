@@ -11,6 +11,7 @@
 0.0.0.0 fivecdm.com
 0.0.0.0 smaato.net
 0.0.0.0 adsmoloco.com
+0.0.0.0 adsdk.vivo.com.cn
 0.0.0.0 moatads.com
 0.0.0.0 ads-pixiv.net
 0.0.0.0 ggx.cmvideo.cn
@@ -2872,6 +2873,7 @@
 0.0.0.0 dw.koudaibl.com
 0.0.0.0 dy886.cn
 0.0.0.0 dygang.kkcaicai.com
+0.0.0.0 e.fengyx.com
 0.0.0.0 e.8of9hd.cn
 0.0.0.0 e.ac56.xyz
 0.0.0.0 e.acaog.com
@@ -4863,12 +4865,16 @@
 0.0.0.0 lc.jiathis.com
 0.0.0.0 v2.jiathis.com
 0.0.0.0 v3.jiathis.com
+0.0.0.0 ce3e75d5.jpush.cn
+0.0.0.0 config.jpush.cn
+0.0.0.0 config-junion.jpush.cn
 0.0.0.0 im.jpush.cn
 0.0.0.0 im64.jpush.cn
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
 0.0.0.0 sis.jpush.io
+0.0.0.0 tsis.jpush.cn
 0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 demo.jointreport-switch.com
 0.0.0.0 lg2.jointreport-switch.com
@@ -4965,6 +4971,9 @@
 0.0.0.0 www.mijifen.com
 0.0.0.0 ft.moad.cn
 0.0.0.0 pic.moad.cn
+0.0.0.0 api.fc.mob.com
+0.0.0.0 api.fd.mob.com
+0.0.0.0 sdk.push.mob.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.share.mob.com
 0.0.0.0 c.data.mob.com
