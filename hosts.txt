@@ -1,4 +1,4 @@
-#version: 202111082343
+#version: 202203192301
 @direct/1os
 #amap
 0.0.0.0 optimus-ads.amap.com
@@ -1495,6 +1495,10 @@
 0.0.0.0 t.ksrong.com
 0.0.0.0 vasapi.rdtuijian.com
 0.0.0.0 info.iciba.com
+0.0.0.0 mb.adres.wpscdn.cn
+0.0.0.0 momsg.wps.cn
+0.0.0.0 honeycomb.wpscdn.cn
+0.0.0.0 honeycomb.wps.cn
 #miui-tv
 0.0.0.0 519332DA.rtc.youme.im
 0.0.0.0 adcdn.hpplay.cn
@@ -1871,6 +1875,10 @@
 0.0.0.0 sdfp.snssdk.com
 0.0.0.0 stream.snssdk.com
 0.0.0.0 vas-hl-x.snssdk.com
+0.0.0.0 log-api.pangolin-sdk-toutiao-b.com
+0.0.0.0 pangolin.snssdk.com
+0.0.0.0 tnc3-aliec2.snssdk.com
+0.0.0.0 pangolin.snssdk.com
 #http://m.yuedu.163.com/
 0.0.0.0 wr.da.netease.com
 0.0.0.0 push.yuedu.163.com
@@ -3395,6 +3403,7 @@
 0.0.0.0 cnyibs.com
 0.0.0.0 code.bianxianwu.com
 0.0.0.0 code.wantaico.com
+0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 count.knowsky.com
 0.0.0.0 count.wk2.com
 0.0.0.0 cp.003store.com
@@ -3622,6 +3631,7 @@
 0.0.0.0 hl.kuzu.com
 0.0.0.0 hm.baidu.com.zzsdtzb.com
 0.0.0.0 hm.shuixyh.com
+0.0.0.0 hnnzwhyy.com
 0.0.0.0 hoisin.coocaatv.com
 0.0.0.0 html.yuntzs.com
 0.0.0.0 httpdns.c.cdnhwc2.com
@@ -3957,6 +3967,7 @@
 0.0.0.0 m1.jiasudu666.com
 0.0.0.0 m2u.376710.com
 0.0.0.0 malacca.inveno.com
+0.0.0.0 maldini.xyz
 0.0.0.0 market.wsskj520.cn
 0.0.0.0 matthewsery.com
 0.0.0.0 matwbp.iask.sina.com.cn
@@ -4031,6 +4042,7 @@
 0.0.0.0 p.99mssj.com
 0.0.0.0 p.bangdu2.com
 0.0.0.0 p.bnuni.com
+0.0.0.0 p.hnnzwhyy.com
 0.0.0.0 p.kf3msfm.com
 0.0.0.0 p.lexph.com
 0.0.0.0 p.m5bn.com
@@ -4590,6 +4602,7 @@
 0.0.0.0 xco.qwxcs.com
 0.0.0.0 xd.code.tanwanyx.com
 0.0.0.0 xfo.monesyy.com
+0.0.0.0 xg4ken.com
 0.0.0.0 xia.chemdraw.com
 0.0.0.0 xiaoshuo.kp53.cn
 0.0.0.0 xiazai.cdren.com
@@ -7378,3 +7391,16 @@
 0.0.0.0 ads.huan.tv
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 tclicon5.ifmis.huan.tv
+#meituan
+0.0.0.0 dreport.meituan.net
+0.0.0.0 env.dreport.meituan.net
+0.0.0.0 kfk2es.dreport.meigtuan.net
+0.0.0.0 met-badge.dreport.meituan.net
+0.0.0.0 mobile.dreport.meituan.net
+0.0.0.0 sniffer.dreport.meituan.net
+0.0.0.0 metrics-exit-ios.dreport.meituan.net
+0.0.0.0 prism-report-ddd.dreport.meituan.net
+0.0.0.0 route-stats.dreport.meituan.net
+#tvb
+0.0.0.0 api.ads.tvb.com
+0.0.0.0 img.ads.tvb.com
