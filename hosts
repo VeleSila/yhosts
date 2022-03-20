@@ -1,4 +1,4 @@
-#version: 202111082343
+#version: 2022031015
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 0.0.0.0 adfurikun.jp
 0.0.0.0 aag.yahooapis.jp
@@ -11,6 +11,7 @@
 0.0.0.0 fivecdm.com
 0.0.0.0 smaato.net
 0.0.0.0 adsmoloco.com
+0.0.0.0 adsdk.vivo.com.cn
 0.0.0.0 moatads.com
 0.0.0.0 ads-pixiv.net
 0.0.0.0 ggx.cmvideo.cn
@@ -108,6 +109,17 @@
 0.0.0.0 qstore.inner.api.sj.360.cn
 0.0.0.0 shake.360.cn
 0.0.0.0 shake.f.360.cn
+0.0.0.0 sdk.push.mob.com
+0.0.0.0 api.fc.mob.com
+0.0.0.0 api.fd.mob.com
+0.0.0.0 ads.reader.yueyouxs.com
+0.0.0.0 e.fengyx.com
+0.0.0.0 c.oqrwpru.cn
+0.0.0.0 v.oqrwpru.cn
+0.0.0.0 honpu1.dianqiweixiu.net
+0.0.0.0 1.yitooo.net
+0.0.0.0 mps.wenkuzu.com
+0.0.0.0 fpbbdx1.bmcx.com
 0.0.0.0 e.tf.360.cn
 0.0.0.0 guess.tf.360.cn
 0.0.0.0 stat.tf.360.cn
@@ -2861,6 +2873,7 @@
 0.0.0.0 dw.koudaibl.com
 0.0.0.0 dy886.cn
 0.0.0.0 dygang.kkcaicai.com
+0.0.0.0 e.fengyx.com
 0.0.0.0 e.8of9hd.cn
 0.0.0.0 e.ac56.xyz
 0.0.0.0 e.acaog.com
@@ -3670,7 +3683,6 @@
 0.0.0.0 u034024.nr1234.com
 0.0.0.0 u291014.nr1234.com
 0.0.0.0 uc.whkwpzz.cn
-0.0.0.0 ucan.25pp.com
 0.0.0.0 udjfnbl.zwdu.com
 0.0.0.0 uimg.123hala.com
 0.0.0.0 uimg.1qwe3r.com
@@ -4853,12 +4865,16 @@
 0.0.0.0 lc.jiathis.com
 0.0.0.0 v2.jiathis.com
 0.0.0.0 v3.jiathis.com
+0.0.0.0 ce3e75d5.jpush.cn
+0.0.0.0 config.jpush.cn
+0.0.0.0 config-junion.jpush.cn
 0.0.0.0 im.jpush.cn
 0.0.0.0 im64.jpush.cn
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
 0.0.0.0 sis.jpush.io
+0.0.0.0 tsis.jpush.cn
 0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 demo.jointreport-switch.com
 0.0.0.0 lg2.jointreport-switch.com
@@ -4955,6 +4971,9 @@
 0.0.0.0 www.mijifen.com
 0.0.0.0 ft.moad.cn
 0.0.0.0 pic.moad.cn
+0.0.0.0 api.fc.mob.com
+0.0.0.0 api.fd.mob.com
+0.0.0.0 sdk.push.mob.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.share.mob.com
 0.0.0.0 c.data.mob.com
@@ -4994,8 +5013,11 @@
 0.0.0.0 pic.punchbox.org
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 www.qchannel03.cn
+0.0.0.0 a.qchannel03.cn
 0.0.0.0 b.qchannel03.cn
 0.0.0.0 fd.qchannel03.cn
+0.0.0.0 fd2.qchannel03.cn
+0.0.0.0 log.qchannel03.cn
 0.0.0.0 www.qchannel04.cn
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 77kb.qucaigg.com
@@ -5942,6 +5964,12 @@
 0.0.0.0 cdn-adn-https-share.rayjump.com
 0.0.0.0 da.anythinktech.com
 0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 tsis.jpush.cn
+0.0.0.0 ce3e75d5.jpush.cn
+0.0.0.0 config-junion.jpush.cn
+0.0.0.0 s.jpush.cn
+0.0.0.0 config.jpush.cn
+0.0.0.0 gw.innotechx.com
 0.0.0.0 imp-toutiao-data.37.com.cn
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 ios.bugly.qq.com
