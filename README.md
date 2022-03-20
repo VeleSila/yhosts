@@ -3,8 +3,11 @@
 2020-04-19 - Current [VeleSila] (4/19/2020为通过QQ获得Vokins授权日）
 
 不用出国也可以更新的地址:
+
 通用(更全):
 https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts
+
+
 智能电视专用:
 https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt
 
