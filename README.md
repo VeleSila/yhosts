@@ -4,12 +4,11 @@
 
 不用出国也可以更新的地址:
 
-通用(更全):
-https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts
-
-
-智能电视专用:
+通用:
 https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt
+
+智能电视专用(更全,用电脑看视频网站可能出错):
+https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts
 
 # yhosts
 
