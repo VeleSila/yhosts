@@ -1,4 +1,4 @@
-#version: 202203192301
+#version: 202203192307
 @direct/1os
 #amap
 0.0.0.0 optimus-ads.amap.com
@@ -7404,3 +7404,49 @@
 #tvb
 0.0.0.0 api.ads.tvb.com
 0.0.0.0 img.ads.tvb.com
+#创维电视
+0.0.0.0 active.tc.skysrt.com
+0.0.0.0 t7z.cupid.ptqy.gitv.tv
+0.0.0.0 t7z.cupid.iqiyi.com
+0.0.0.0 ad.3.cn
+0.0.0.0 amdcopen.m.taobao.com
+0.0.0.0 api.app.skysrt.com
+0.0.0.0 api.device.skysrt.com
+0.0.0.0 api.home.skysrt.com
+0.0.0.0 api.skyworthiot.com
+0.0.0.0 api-home.skysrt.com
+0.0.0.0 app.snm0516.aisee.tv
+0.0.0.0 btrace.play.t002.ottcn.com
+0.0.0.0 business.video.tc.skysrt.com
+0.0.0.0 cl-dl.cc0808.com
+0.0.0.0 conf-darwin.xycdn.com
+0.0.0.0 connect.play.aiseet.atianqi.com
+0.0.0.0 data-dl.skysrt.com
+0.0.0.0 dl.skysrt.com
+0.0.0.0 dp3.play.t002.ottcn.com
+0.0.0.0 livep.l.t002.ottcn.com
+0.0.0.0 mtrace.play.t002.ottcn.com
+0.0.0.0 ocsp.int-x3.letsencrypt.org
+0.0.0.0 p.tencentmind.com
+0.0.0.0 puui.qpic.cn
+0.0.0.0 rpc-tc.skysrt.com
+0.0.0.0 rpt-gdt.play.t002.ottcn.com
+0.0.0.0 sdk1xyajs.data.p2cdn.com
+0.0.0.0 sky.tvos.skysrt.com
+0.0.0.0 sv.video.qq.com
+0.0.0.0 tq.skysrt.com
+0.0.0.0 tracker.appadhoc.com
+0.0.0.0 tvos.skysrt.com
+0.0.0.0 tx.ctrmi.cn
+0.0.0.0 umengacs.m.taobao.com
+0.0.0.0 update01.skyworth-cloud.com
+0.0.0.0 webapp.skysrt.com
+#酷开电视
+0.0.0.0 api-app.coocaa.ottcn.com
+0.0.0.0 api-home.coocaa.ottcn.com
+0.0.0.0 qr.coocaa.com
+0.0.0.0 res.hoisin.coocaatv.com
+0.0.0.0 api-upgrade.coocaa.ottcn.com
+0.0.0.0 data-hoisin.coocaa.com
+0.0.0.0 hoisin.coocaa.com
+0.0.0.0 hoisin.coocaatv.com
