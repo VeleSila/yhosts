@@ -7,7 +7,7 @@
 通用:
 https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt
 
-智能电视专用(更全,用电脑看视频网站可能出错):
+智能设备专用(更全,用电脑看视频网站可能出错):
 https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts
 
 # yhosts
