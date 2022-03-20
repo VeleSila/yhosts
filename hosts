@@ -109,7 +109,6 @@
 0.0.0.0 qstore.inner.api.sj.360.cn
 0.0.0.0 shake.360.cn
 0.0.0.0 shake.f.360.cn
-0.0.0.0 sdk.push.mob.com
 0.0.0.0 api.fc.mob.com
 0.0.0.0 api.fd.mob.com
 0.0.0.0 ads.reader.yueyouxs.com
@@ -2873,7 +2872,6 @@
 0.0.0.0 dw.koudaibl.com
 0.0.0.0 dy886.cn
 0.0.0.0 dygang.kkcaicai.com
-0.0.0.0 e.fengyx.com
 0.0.0.0 e.8of9hd.cn
 0.0.0.0 e.ac56.xyz
 0.0.0.0 e.acaog.com
@@ -4971,8 +4969,6 @@
 0.0.0.0 www.mijifen.com
 0.0.0.0 ft.moad.cn
 0.0.0.0 pic.moad.cn
-0.0.0.0 api.fc.mob.com
-0.0.0.0 api.fd.mob.com
 0.0.0.0 sdk.push.mob.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.share.mob.com
@@ -5964,11 +5960,7 @@
 0.0.0.0 cdn-adn-https-share.rayjump.com
 0.0.0.0 da.anythinktech.com
 0.0.0.0 gd-stats.jpush.cn
-0.0.0.0 tsis.jpush.cn
-0.0.0.0 ce3e75d5.jpush.cn
-0.0.0.0 config-junion.jpush.cn
 0.0.0.0 s.jpush.cn
-0.0.0.0 config.jpush.cn
 0.0.0.0 gw.innotechx.com
 0.0.0.0 imp-toutiao-data.37.com.cn
 0.0.0.0 impression.appsflyer.com
