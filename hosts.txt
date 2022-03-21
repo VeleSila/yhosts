@@ -1,4 +1,4 @@
-#version: 20220322121
+#version: 202203202204
 @direct/1os
 #amap
 0.0.0.0 optimus-ads.amap.com
@@ -4245,6 +4245,7 @@
 0.0.0.0 script-bd.baixing.net
 0.0.0.0 sdbdccq.com
 0.0.0.0 sdk.cferw.com
+0.0.0.0 sdkauth.hpplay.cn
 0.0.0.0 sdktmp.hubcloud.com.cn
 0.0.0.0 seordl.cn
 0.0.0.0 serve.popads.net
