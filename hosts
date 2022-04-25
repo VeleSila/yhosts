@@ -1,4 +1,4 @@
-#version: 202204170012
+#version: 202204251216
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 0.0.0.0 adfurikun.jp
 0.0.0.0 aag.yahooapis.jp
@@ -1559,6 +1559,7 @@
 0.0.0.0 imgadpai.thepaper.cn
 0.0.0.0 ad.toutiao.com
 0.0.0.0 api-access.pangolin-sdk-toutiao.com
+0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0 dm.toutiao.com
 0.0.0.0 zhanzhang.toutiao.com
 0.0.0.0 analytics.snssdk.com
