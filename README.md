@@ -5,10 +5,10 @@
 不用出国也可以更新的地址:
 
 通用:
-https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt
+hosts.txt
 
 智能设备专用(更全,用电脑看视频网站可能出错):
-https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts
+hosts
 
 # yhosts
 
