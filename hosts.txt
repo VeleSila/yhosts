@@ -562,8 +562,6 @@
 0.0.0.0 quanjing.cnzz.com
 0.0.0.0 s1.cnzz.com
 0.0.0.0 s10.cnzz.com
-0.0.0.0 s11.cnzz.com
-0.0.0.0 s13.cnzz.com
 0.0.0.0 s100.cnzz.com
 0.0.0.0 s101.cnzz.com
 0.0.0.0 s102.cnzz.com
