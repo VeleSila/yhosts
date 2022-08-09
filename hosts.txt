@@ -2,6 +2,9 @@
 @direct/1os
 #amap
 0.0.0.0 optimus-ads.amap.com
+#快手广告
+0.0.0.0 open.e.kuaishou.cn
+0.0.0.0 open.e.kuaishou.com
 #香哈升级包
 0.0.0.0 t1.cdn.xiangha.com
 #黄历通胜
