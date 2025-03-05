@@ -1548,7 +1548,7 @@
 0.0.0.0 sl.hpplay.cn
 0.0.0.0 starfish.pandora.xiaomi.com
 0.0.0.0 tvapp.hpplay.cn
-0.0.0.0 mishop.pandora.xiaomi.com.
+0.0.0.0 mishop.pandora.xiaomi.com
 0.0.0.0 vipauth.hpplay.cn
 0.0.0.0 upgrade.mishop.pandora.xiaomi.com
 #oppo-ads
@@ -1943,7 +1943,7 @@
 0.0.0.0 tbm.snssdk.com
 0.0.0.0 temai.snssdk.com
 0.0.0.0 tnc3-aliec2.snssdk.com
-0.0.0.0 tnc3-bjlgy.snssdk.
+0.0.0.0 tnc3-bjlgy.snssdk
 0.0.0.0 tnc3-bjlgy.snssdk.com
 0.0.0.0 toblog.snssdk.com
 0.0.0.0 toutiao.2haha.com
